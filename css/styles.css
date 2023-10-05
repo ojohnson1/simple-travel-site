@@ -5,8 +5,24 @@ img{
 }
 .container {
     display: flex;
-    flex-direction: column;
+   
     justify-content: space-around;
 flex-wrap: wrap;
 
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.landmarks{
+    border: 1px solid black;
+}
+
+td{
+    padding-left:1rem;
+}
+
+th{
+    
 }
